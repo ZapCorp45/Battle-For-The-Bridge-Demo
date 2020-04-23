@@ -1,0 +1,19 @@
+Battle for the Bridge was designed and developed by Matt Jones as his senior capstone 
+for the Digital Worlds Institute.
+
+Special Thanks to Nick Heitzman, who always motivated and instructed me into taking 
+this project further and further.
+
+And thank you to the class of 2020, whose brilliance always inspired me. I hope I see
+you all out there again.
+
+
+
+Music Credits:
+Lord of the Land and Five Armies by Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Low Poly Fantsy Warrior model designed by asoliddev on the Unity Asset Store
+
+Controller Icon Pack designed by xelu at OpenGameArt.org
